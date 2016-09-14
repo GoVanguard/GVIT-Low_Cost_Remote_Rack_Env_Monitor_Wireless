@@ -1,0 +1,17 @@
+Ultiboard Information Export File
+
+Design Name  : GVIT-Low_Cost_Remote_Rack_Env_Monitor_Wireless - Bill Of Materials
+Report Date  : 14 September 2016
+Report Time  : 13:39
+--------------------------------------------------------------------------------
+
+VALUE        SHAPE        #    REFDES       
+
+1uF          CAPR250-500X250X550 2    C3,C4        
+10kOhm       RES1300-700X250 1    R1           
+10uF         CAPPR200-500X1100 2    C1,C2        
+ESP8266-Hazzah-2 ESP8266-Hazzah 1    U1           
+HDR1X4       HDR1X4       2    DHT22,WATER_SENSE
+HDR1X6       HDR1X6       1    SERIAL       
+LM7805CT     to220        1    U2           
+DC-Jack      PB           1    GND,VCC      
